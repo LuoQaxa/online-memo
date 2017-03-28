@@ -1,0 +1,1 @@
+module.exports.a = 'i am aaaaaa luoqian nandao hai shi mei xiaoguo'
